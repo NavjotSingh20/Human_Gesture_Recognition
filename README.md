@@ -22,7 +22,7 @@ This project explores how traditional machine learning approaches compare with d
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - NumPy
