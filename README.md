@@ -1,4 +1,4 @@
-# 🖊️ Handwritten Digit Recognition using Machine Learning & Deep Learning
+# Handwritten Digit Recognition using Machine Learning & Deep Learning
 
 This project implements and compares multiple machine learning and deep learning models for handwritten digit recognition using the **MNIST dataset**.
 
@@ -14,7 +14,7 @@ Each model was trained with different configurations and evaluated using test ac
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Handwritten digit recognition is a classic computer vision problem where a model learns to classify grayscale images of handwritten digits (0-9).
 
@@ -34,7 +34,7 @@ This project explores how traditional machine learning approaches compare with d
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 ### MNIST Handwritten Digit Dataset
 
@@ -49,7 +49,7 @@ Each image is represented as pixel intensity values and classified into one of t
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -60,7 +60,7 @@ The following preprocessing steps were performed:
 
 ---
 
-# 🤖 Models Implemented
+# Models Implemented
 
 ## 1. K-Nearest Neighbors (KNN)
 
@@ -103,7 +103,7 @@ CNN learns spatial patterns from image pixels and achieves higher classification
 
 ---
 
-# 📊 Evaluation Metrics
+# Evaluation Metrics
 
 Each model was evaluated using:
 
@@ -120,7 +120,7 @@ Used to analyze:
 
 ---
 
-# 🏆 Results Summary
+# Results Summary
 
 | Model | Configuration | Test Accuracy |
 |---|---|---|
@@ -133,7 +133,7 @@ Used to analyze:
 
 ---
 
-# 📈 Observations
+# Observations
 
 - KNN achieved strong performance due to the similarity-based nature of handwritten digits.
 - RBF kernel SVM performed significantly better than Linear SVM due to its ability to capture non-linear patterns.
